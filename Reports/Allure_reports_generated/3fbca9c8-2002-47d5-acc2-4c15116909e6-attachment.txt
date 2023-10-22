@@ -1,0 +1,2 @@
+[32mINFO    [0m custom_logger:test_login.py:58 ************** Verifying Login Page Test 1 started !! *************
+[32mINFO    [0m custom_logger:test_login.py:65 ************** Verifying Login Page Test 1 Passed *************
